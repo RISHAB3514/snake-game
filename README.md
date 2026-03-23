@@ -30,4 +30,6 @@ This project is open-source and free to use.
 
 
 📸 Preview
-![20260323-1508-16 3382909](https://github.com/user-attachments/assets/028c322b-1440-4c0b-8661-1e464a83123f)
+![20260323-1546-54 3409165](https://github.com/user-attachments/assets/5959ba40-6ae8-4a06-a78b-71a0f6f0fd7e)
+
+
