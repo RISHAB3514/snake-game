@@ -10,8 +10,7 @@ A classic Snake Game built with smooth controls, score tracking, and clean game 
 - 🎯 Smooth controls
 
 ## 🛠️ Tech Stack
-- Language: (Add your language here - Java / JavaScript / Python)
-- (Add frameworks/libraries if used)
+- Language: (JavaScript)
 
 
 ******************************************************************************************************************************
@@ -19,27 +18,16 @@ A classic Snake Game built with smooth controls, score tracking, and clean game 
 ## 📂 Project Structure
 
 
-## ▶️ How to Run
-
-### For JavaScript
-1. Open `index.html` in browser
-
-### For Java
-1. Compile: `javac Main.java`
-2. Run: `java Main`
-
-### For Python
-1. Run: `python main.py`
-
 ## 🎮 Controls
 - Arrow Keys / WASD → Move snake
 - Eat food to grow and increase score
-
-## 📸 Screenshot
-(Add screenshot here if you want)
 
 ## 🤝 Contributing
 Feel free to fork this repo and improve the game!
 
 ## 📄 License
 This project is open-source and free to use.
+
+
+📸 Preview
+![20260323-1508-16 3382909](https://github.com/user-attachments/assets/028c322b-1440-4c0b-8661-1e464a83123f)
